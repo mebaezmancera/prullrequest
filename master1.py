@@ -1,0 +1,1 @@
+pritnt("Mster 1")
